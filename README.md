@@ -1,4 +1,4 @@
-# CustomisableCardMemoryGame
+# Customisable Card Memory Game
 A fun easy to play, customisable card memory game! Flip the cards to see image below, remember the image and find matching pairs.
 Choose from 3 Difficulty levels - Easy, Medium, Hard
 You can also make your own game!
