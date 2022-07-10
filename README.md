@@ -3,8 +3,7 @@ A fun easy to play, customisable card memory game! Flip the cards to see image b
 Choose from 3 Difficulty levels - Easy, Medium, Hard
 You can also make your own game!
 - Choose a difficulty level and upload pictures of your choice
-- Give your game a unique game and share with your friends.
-- Play any game your friends made, from anywhere in the world.
+- Give your game a unique game and customise the game as per your choice.
 
 Link to the APK - https://drive.google.com/file/d/1l-FBZjYlqRMegNKJKINcZuXS-woYicz3/view?usp=sharing
 
